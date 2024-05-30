@@ -1,0 +1,10 @@
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\obj\Debug\MoveCircle 2.csproj.AssemblyReference.cache
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\obj\Debug\MoveCircle_2.FormBallGame.resources
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\obj\Debug\MoveCircle_2.Properties.Resources.resources
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\obj\Debug\MoveCircle 2.csproj.GenerateResource.cache
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\obj\Debug\MoveCircle 2.csproj.CoreCompileInputs.cache
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\bin\Debug\MoveCircle 2.exe.config
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\bin\Debug\MoveCircle 2.exe
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\bin\Debug\MoveCircle 2.pdb
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\obj\Debug\MoveCircle 2.exe
+C:\Users\taiga-watanabe\source\repos\MoveCircle 2\MoveCircle 2\obj\Debug\MoveCircle 2.pdb
